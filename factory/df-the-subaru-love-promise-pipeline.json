@@ -1,0 +1,9 @@
+{
+	"name": "df-the-subaru-love-promise-pipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f67b12e-a1af-489c-bcf8-927fa0744516",
+		"tenantId": "0b84745c-c8c4-4ad2-a82f-a934368fab32"
+	}
+}
