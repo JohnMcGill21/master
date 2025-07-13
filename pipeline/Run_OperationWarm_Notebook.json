@@ -15,10 +15,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/johnmcgill21@gmail.com/OperationWarm_Email_Automation"
+					"notebookPath": "/Workspace/Users/johnmcgill21@gmail.com/OperationWarm_Email_Automation"
 				},
 				"linkedServiceName": {
-					"referenceName": "AzureDatabricks_LinkedService",
+					"referenceName": "AzureDatabricks_Linked",
 					"type": "LinkedServiceReference"
 				}
 			}
