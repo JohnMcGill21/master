@@ -18,7 +18,7 @@
 					"notebookPath": "/Workspace/Users/johnmcgill21@gmail.com/OperationWarm_Email_Automation"
 				},
 				"linkedServiceName": {
-					"referenceName": "AzureDatabricks_Linked",
+					"referenceName": "AzureDatabricks_LinkedService",
 					"type": "LinkedServiceReference"
 				}
 			}
